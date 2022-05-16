@@ -23,8 +23,8 @@ body{
 }
 
 div div{
-    min-width: 10px; /* no need the width and height*/
-    min-height: 10px;
+    min-width: 1px; /* no need the width and height*/
+    min-height: 1px;
 }
 
 .column{
