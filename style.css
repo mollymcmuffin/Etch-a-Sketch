@@ -15,11 +15,7 @@ body{
     display: flex;
     flex-direction: column;
     border: 2px solid;
-    
-}
-
-div div{
-    
+    padding: 0;
 }
 
 .column{
@@ -32,6 +28,8 @@ div div{
 .row {
     flex-grow: 1;
     border: 1px solid;
+    min-width: 1px;
+    min-height: 1px;
 }
 
 .drawn{
